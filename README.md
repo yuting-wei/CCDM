@@ -20,6 +20,7 @@ Please cite our paper if you use or compare with our model.
         title = {A cross-temporal contrastive disentangled model for ancient Chinese understanding},
         author = {Yuting Wei and Yangfu Zhu and Ting Bai and Bin Wu},
         journal = {Neural Networks},
+        volume = {179},
         pages = {106559},
         year = {2024},
         issn = {0893-6080},
